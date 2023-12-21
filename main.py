@@ -172,7 +172,7 @@ def menu():
     1. Depositar
     2. Sacar
     3. Extrato
-    4. Novo usúario
+    4. Novo usuário
     5. Nova conta
     6. Listar contas
     0. Sair
